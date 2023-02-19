@@ -1,0 +1,12 @@
+.background {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+}
+
+.dashboard {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: #F5F6FA; */
+  background-color: aqua;
+}
